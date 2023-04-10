@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/date-and-color/static/css/main.44f8b8b5.css",
-    "main.js": "/date-and-color/static/js/main.a43cd445.js",
-    "static/js/787.3efd0b7c.chunk.js": "/date-and-color/static/js/787.3efd0b7c.chunk.js",
-    "index.html": "/date-and-color/index.html",
-    "main.44f8b8b5.css.map": "/date-and-color/static/css/main.44f8b8b5.css.map",
-    "main.a43cd445.js.map": "/date-and-color/static/js/main.a43cd445.js.map",
-    "787.3efd0b7c.chunk.js.map": "/date-and-color/static/js/787.3efd0b7c.chunk.js.map"
+    "main.css": "/timeandcolor/static/css/main.44f8b8b5.css",
+    "main.js": "/timeandcolor/static/js/main.d7f302e5.js",
+    "static/js/787.3efd0b7c.chunk.js": "/timeandcolor/static/js/787.3efd0b7c.chunk.js",
+    "index.html": "/timeandcolor/index.html",
+    "main.44f8b8b5.css.map": "/timeandcolor/static/css/main.44f8b8b5.css.map",
+    "main.d7f302e5.js.map": "/timeandcolor/static/js/main.d7f302e5.js.map",
+    "787.3efd0b7c.chunk.js.map": "/timeandcolor/static/js/787.3efd0b7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.a43cd445.js"
+    "static/js/main.d7f302e5.js"
   ]
 }
