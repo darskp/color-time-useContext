@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-time-useContext/static/css/main.44f8b8b5.css",
+    "main.js": "/color-time-useContext/static/js/main.5d6a18b8.js",
+    "static/js/787.3efd0b7c.chunk.js": "/color-time-useContext/static/js/787.3efd0b7c.chunk.js",
+    "index.html": "/color-time-useContext/index.html",
+    "main.44f8b8b5.css.map": "/color-time-useContext/static/css/main.44f8b8b5.css.map",
+    "main.5d6a18b8.js.map": "/color-time-useContext/static/js/main.5d6a18b8.js.map",
+    "787.3efd0b7c.chunk.js.map": "/color-time-useContext/static/js/787.3efd0b7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.5d6a18b8.js"
+  ]
+}
