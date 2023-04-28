@@ -9,12 +9,14 @@ const Comp1 = () => {
     let [color, setColor] = useState("aqua");
     let initialtime=new Date().toLocaleTimeString();
     let [time, setTime] = useState(initialtime);
+   
     useEffect(() => {
         let rtime = setInterval(() => {
             setTime(new Date().toLocaleTimeString())
         }, 1000);
         return (()=>clearInterval(rtime))
     }, [])
+    
     return (
         <div className="bg-dark" style={{height:"100vh"}}>
         <Navbar/>
